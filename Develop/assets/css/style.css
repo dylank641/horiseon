@@ -13,6 +13,7 @@ p {
     font-size: 16px;
 }
 
+/*header start*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,16 +51,16 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/*header end*/
 
+/*hero image*/
 .hero {
-    height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
-
+/*hero image end*/
 .content {
     width: 75%;
     display: inline-block;
@@ -79,18 +80,18 @@ header nav ul li {
     max-height: 200px;
 }
 
-div h2 {
-    padding: 20px 0 0 0;
-}
-
 .float-left {
     float: left;
     margin: 25px;
+    position: relative;
+    top: -14%;
 }
 
 .float-right {
     float: right;
     margin: 25px;
+    position: relative;
+    top: -14%;
 }
 
 .content-blocks h2 {
