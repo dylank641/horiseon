@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6be;
 }
 
 p {
@@ -61,6 +61,8 @@ header nav ul li {
     background-position: center;
 }
 /*hero image end*/
+
+/*body starts*/
 .content {
     width: 75%;
     display: inline-block;
@@ -98,7 +100,7 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*benefits side content starts*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,7 +127,9 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+/*body ends*/
 
+/*footer*/
 footer {
     padding: 30px;
     clear: both;
@@ -136,3 +140,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*footer ends */
