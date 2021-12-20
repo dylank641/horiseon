@@ -2,7 +2,7 @@
 This is the README for the Horiseon webpage
 
 CHALLENGE FOR THE WEEK
--For the project I was assigned to give the project a better code structure for accessiblilty
+-For the project I was assigned to give the website a better code structure for accessiblilty
 
 STEPS FOR FIXING THE HEADER
 -First I took a look at the at the header and nav code and saw that the semantic elements were non-existant
