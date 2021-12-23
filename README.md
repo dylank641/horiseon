@@ -18,4 +18,4 @@ FIXING THE CONTENT AND CSS
 
 ## Images
 
-![this is an image](C:\Users\weigh\OneDrive\Desktop\Challenges\urban-octo-telegram\assets\images)
+![this is an image](blob:devtools://devtools/5e91eb5b-6926-4542-b816-86e301c8a065)
