@@ -18,4 +18,4 @@ FIXING THE CONTENT AND CSS
 
 ## Images
 
-![this is an image](/assets/images/screenshot.pngraw=true)
+![this is an image](C:\Users\weigh\OneDrive\Desktop\Challenges\urban-octo-telegram\assets\images)
