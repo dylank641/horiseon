@@ -18,4 +18,4 @@ FIXING THE CONTENT AND CSS
 
 ## Images
 
-![this is an image](images/screenshot.png)
+![this is an image](/assets/images/screenshot.pngraw=true)
