@@ -16,7 +16,6 @@ FIXING THE CONTENT AND CSS
 -I then got rid of the css code that was repeated and grouped them together reducing the amount of code written
 -Throughout this process i was also was leaving comments to easily navigate through the code and making it easier for others to skim through
 
-PHOTOS OF UPDATED WEBPAGE
-<img src="./assets/css/Capture.PNG" />
-<img src="./assets/css/Capture1.PNG" />
-<img src="./assets/css/Capture2.PNG" />
+## Images
+
+![this is an image] (images/screenshot.png)
